@@ -3,7 +3,7 @@ int startX = 150;
   int endX = 150;
   int endY = 50;
   
- //help her grow some hair
+ //eat some noodles
 void setup()
 {
   size(300,300);
