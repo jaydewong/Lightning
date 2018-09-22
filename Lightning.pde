@@ -43,4 +43,9 @@ void cup(){
   fill(255);
   stroke(255);
   rect(30,270,240,50);
+  fill(242,250,40);
+  noStroke();
+  for(int x = 35; x < 270; x = x+25){
+    rect(x,270,10,15);
+  }
 }
